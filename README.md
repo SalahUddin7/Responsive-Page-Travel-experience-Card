@@ -1,5 +1,6 @@
-# Responsive Page- Travel experience Card
-This is a Simple Responsive Page (Travel experience Card).
+# This is a Simple Responsive Page (Travel experience Card).
+
+
 NOTE:  This code is done on Scrimbas live code editor. I usually use VS code but sometimes, I prefer to use Scrimba because Scrimba simplifies the process by providing an innovative coding platform. You as a visitor can easily see my codes as well as finished visual output.
 
 
