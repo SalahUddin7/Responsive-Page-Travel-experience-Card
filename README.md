@@ -1,7 +1,7 @@
-# Responsive-Page-Travel-experience-Card
-This is a Simple Responsive Page: Travel experience Card.
+# Responsive Page- Travel experience Card
+This is a Simple Responsive Page (Travel experience Card).
 
-Please visit below page to see all the codes with the finishied results. 
+Please visit below page to see all the codes with the finishied result. 
 
 https://scrimba.com/scrim/cobe94b4f8b4e0f58abb8d975
 
