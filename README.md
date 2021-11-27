@@ -5,7 +5,7 @@ NOTE:  This code is done on Scrimbas live code editor. I usually use VS code but
 
 
 
-Please visit below page to see all the codes with the finishied result. 
+Please visit below link to see all the codes with the finishied result. 
 https://scrimba.com/scrim/cobe94b4f8b4e0f58abb8d975
 
 ![image](https://user-images.githubusercontent.com/77015008/143722452-06a46152-321c-4f0c-857d-1390587a54a2.png)
